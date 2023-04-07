@@ -28,4 +28,4 @@ pip install -r requirements.txt
 
 ### 其他
 
-go版本代理 https://github.com/acheong08/ChatGPT-Proxy-V4
+go版本 https://github.com/acheong08/ChatGPT-Proxy-V4
