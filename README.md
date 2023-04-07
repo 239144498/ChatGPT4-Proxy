@@ -6,7 +6,7 @@
 ## 要求
 
 - ChatGPT plus账户 
-- 访问chat.openai.com
+- 访问 chat.openai.com
 
 ## 安装 
 
