@@ -1,5 +1,7 @@
 # ChatGPT4-Proxy
-Support for proxying OpenAI-based GPT4 services
+Language: English | [中文](https://github.com/239144498/ChatGPT4-Proxy/blob/main/README.md)
+
+Support for proxying OpenAI-based GPT4 services  
 
 ## Requirements
 
@@ -26,4 +28,4 @@ Choose one or both.
 
 ### Other
 
-go versioning agent https://github.com/acheong08/ChatGPT-Proxy-V4
+go versioning https://github.com/acheong08/ChatGPT-Proxy-V4
