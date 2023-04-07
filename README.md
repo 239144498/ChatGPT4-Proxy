@@ -1,6 +1,7 @@
 # ChatGPT4-Proxy
-语言：中文 | [English](https://github.com/239144498/ChatGPT4-Proxy/blob/main/README_EN.md)
-支持代理基于OpenAI的GPT4服务
+语言：中文 | [English](https://github.com/239144498/ChatGPT4-Proxy/blob/main/README_EN.md)  
+
+支持代理基于OpenAI的GPT4服务 
 
 ## 要求
 
